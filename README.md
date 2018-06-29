@@ -8,4 +8,5 @@
 
 ## Comparison between [China Jinping Underground Laboratory](https://en.wikipedia.org/wiki/China_Jinping_Underground_Laboratory) and TEXONO
 Production rates(per day per kg) of cosmogenic isotopes in Germanium and Zinc 
-![picture5](https://user-images.githubusercontent.com/36488608/42108261-9c9bca5c-7b9f-11e8-913a-49cb74717e1f.png )
+![picture5](https://user-images.githubusercontent.com/36488608/42108261-9c9bca5c-7b9f-11e8-913a-49cb74717e1f.png)
+![picture6](https://user-images.githubusercontent.com/36488608/42109035-eab66a06-7ba1-11e8-9995-ec4468a595ac.png)

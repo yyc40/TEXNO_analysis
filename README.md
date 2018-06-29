@@ -17,4 +17,4 @@
 ### Production rates(per day per kg) of cosmogenic isotopes in Germanium and Zinc 
 
 ![picture5](https://user-images.githubusercontent.com/36488608/42108261-9c9bca5c-7b9f-11e8-913a-49cb74717e1f.png)
-![picture6]<img src= "https://user-images.githubusercontent.com/36488608/42109035-eab66a06-7ba1-11e8-9995-ec4468a595ac.png" width="10">
+![picture6](https://user-images.githubusercontent.com/36488608/42109035-eab66a06-7ba1-11e8-9995-ec4468a595ac.png)
